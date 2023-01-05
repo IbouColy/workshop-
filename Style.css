@@ -1,0 +1,30 @@
+h1{
+    color: blue;
+    background-color: aqua;
+}
+h2{
+    color: yellow;
+    background-color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+}
+p{
+    color: green;
+    background-color: blueviolet;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    font-style: italic;
+}
+form{
+    color: dodgerblue;
+    background-color: dimgray;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+}
+tr{
+    color: coral;
+    background-color: greenyellow;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: larger;
+    
+}
